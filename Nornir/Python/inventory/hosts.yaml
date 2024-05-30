@@ -1,0 +1,22 @@
+---
+R1:
+ hostname: "172.16.2.1"
+ username: "gns3"
+ password: "1234"
+ groups:
+  - cisco
+
+R2:
+ hostname: "172.16.9.2"
+ username: "gns3"
+ password: "1234"
+ groups:
+  - cisco
+
+R3:
+ hostname: "172.16.9.6"
+ username: "gns3"
+ password: "1234"
+ groups:
+  - cisco
+  

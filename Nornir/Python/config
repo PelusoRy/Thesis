@@ -1,0 +1,8 @@
+Host 172.16.2.1
+	KexAlgorithms diffie-hellman-group-exchange-sha1
+	
+Host 172.16.9.2
+	KexAlgorithms diffie-hellman-group-exchange-sha1
+	
+Host 172.16.9.6
+	KexAlgorithms diffie-hellman-group-exchange-sha1
